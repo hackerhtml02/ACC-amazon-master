@@ -33,7 +33,7 @@ $ pkg install git
 
 $ git clone https://github.com/hackerhtml02/ACC-amazon-master.git
 
-$ cd ACC-amazon
+$ cd ACC-amazon-master
 
 $ pip2 install faker
 
