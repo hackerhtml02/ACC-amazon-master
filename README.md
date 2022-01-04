@@ -31,7 +31,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/Anonymous3-SIT/ACC-amazon
+$ git clone https://github.com/hackerhtml02/ACC-amazon-master.git
 
 $ cd ACC-amazon
 
